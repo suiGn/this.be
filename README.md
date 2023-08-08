@@ -1,3 +1,4 @@
+<img src="./_._.svg" alt="SVG Image" width="123" height="123" style="width123px; height:123px;">
 # this.me & this.be
 
 This project consists of two npm packages, `this.me` and `this.be`, designed to empower users in defining, managing, and utilizing personal data and backend functionalities effectively.
