@@ -1,8 +1,8 @@
 {
   "name": "this.be",
-  "version": "2.1.6",
+  "version": "2.1.7",
   "description": "this.be complements this.me ",
-  "main": "index.js",
+  "main": "this.be.js",
   "scripts": {
     "test": "test"
   },
