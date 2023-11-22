@@ -6,18 +6,19 @@
   "scripts": {
     "test": "test"
   },
+  "keywords": [
+    "JavaScript"
+  ],
+  "bugs": {
+    "url": "https://github.com/suiGn/this.be/issues"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/suiGn/this.be.git"
   },
-  "keywords": [
-    "JavaScript"
-  ],
+  "homepage": "https://www.npmjs.com/package/this.be",
+  "docs": "https://suiGn.github.io/this.be",
   "author": "suiGN",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/suiGn/this.be/issues"
-  },
-  "homepage": "https://github.com/suiGn/this.be#readme",
   "repoType": "NPM Package"
 }
