@@ -24,3 +24,6 @@ let h = 0;
 // this.be _______  ______%%
 // this.be _______  ______%%
 // Show 5 top highest probability of y = 1, given x, parameterized by theta.
+console.log('p(y = 1 | x; theta) = h(theta * x) = 1 / (1 + e^(-theta * x))');
+console.log('h(x) = 1 / (1 + e^(-x))');
+console.log("this.be Loadded.");

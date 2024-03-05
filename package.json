@@ -1,9 +1,10 @@
 {
   "name": "this.be",
-  "version": "2.2.1",
+  "version": "2.2.11",
   "description": "this.be complements this.me ",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "test"
   },
   "keywords": [
@@ -18,6 +19,7 @@
   },
   "homepage": "https://www.npmjs.com/package/this.be",
   "docs": "https://suiGn.github.io/this.be",
+  "type": "module",
   "author": "suiGN",
   "license": "MIT",
   "repoType": "NPM Package",
