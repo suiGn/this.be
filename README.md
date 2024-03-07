@@ -1,6 +1,16 @@
 <img src="./_._.svg" alt="SVG Image" width="123" height="123" style="width123px; height:123px;">
 
-# this.be
+# THIS.BE
+
+-----------
+
+### [Project Status : Experimental and Under Development, Subject to Major Changes]
+
+The module is in active development, and as such, it is subject to significant changes as we refine our approach and methodologies to best support our goals.
+
+visit: https://neurons.me to learn more.
+
+----------
 
 This project consists of two npm packages, `this.be` and `be.this`, designed to empower users in defining, managing, and utilizing personal data and backend functionalities effectively.
 
@@ -10,12 +20,12 @@ npm install this.be
 
 
 
-### **this.be:** The State Guardian
+# **this.be:** The State Guardian
 
 It represents the heart of your application, maintaining a global state or context.
 Every time there's a change, or when specific events occur, "this.be" takes note and acts as the guardian of that state, ensuring that it's accessible and known.
 
-##### **be.this:** The State Enforcer
+# **be.this:** The State Enforcer
 
 This module is the action-taker, adjusting and reconfiguring based on the state preserved by "this.be".
 Think of it as a troubleshooter or a healer; it watches the state and acts when things aren't in harmony with it.
@@ -51,17 +61,8 @@ Think of it as a troubleshooter or a healer; it watches the state and acts when 
 In summary, these modules, with their elegant designs, offer a blueprint for efficient state management, embodying key software design principles. They're primed for integration into larger ecosystems, serving as the backbone for robust application state handling.
 
 
-[neurons.me](https://www.neurons.me)
 
-[neurons.me/this](https://www.neurons.me/this)
-
-### License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-This README provides an overview of the project, instructions for installation and usage, and highlights future projections. Feel free to modify or expand it as needed. Congratulations on building this exciting tool, and good luck with its continued development!
-
-
+----------
 
 # About All.This
 
@@ -81,10 +82,18 @@ This README provides an overview of the project, instructions for installation a
 
 visit: [Neurons.me Glossary](https://suign.github.io/neurons.me/Glossary) 
 
-Learn more at https://neurons.me
+## License & Policies
 
-**Author:** SuiGn
+- **License**: MIT License (see LICENSE for details).
 
-[By neurons.me](https://neurons.me)
+- **Privacy Policy**: Respects user privacy; no collection/storage of personal data.
 
-<img src="https://suign.github.io/neurons.me/neurons_logo.png" alt="neurons.me logo" width="123" height="123" style="width123px; height:123px;">
+- **Terms of Usage**: Use responsibly. No guarantees/warranties provided. [Terms](https://www.neurons.me/terms-of-use) | [Privacy](https://www.neurons.me/privacy-policy)
+
+  **Learn more** at https://neurons.me
+
+  **Author:** SuiGn
+
+  [By neurons.me](https://neurons.me)
+
+  <img src="https://suign.github.io/neurons.me/neurons_logo.png" alt="neurons.me logo" width="123" height="123" style="width123px; height:123px;">
